@@ -35,4 +35,5 @@ Most app blockers passively restrict access without considering behavioral patte
 ### 🌟 Impact & Vision  
 Detox Dial transforms digital wellness into a proactive experience. By combining AI, psychology, and personalization, it fosters healthier habits, encourages mindful tech use, and redefines how digital interventions are delivered.
 
-[![Watch the demo](https://img.shields.io/badge/Watch-Demo-red?logo=youtube)](https://youtu.be/j50Vgk322rQ)
+🎥 **Demo:** You can view the working of the app through this [YouTube video](https://youtu.be/j50Vgk322rQ).
+
